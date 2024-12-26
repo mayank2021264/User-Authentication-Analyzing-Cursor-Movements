@@ -69,22 +69,6 @@ The project utilizes two combined datasets:
 - Complex, non-linear patterns in cursor movements require sophisticated modeling approaches
 - Traditional binary classifiers (Logistic Regression, SVM) struggled with the multi-class nature of the problem
 
-## Setup and Installation
-
-```bash
-# Clone the repository
-git clone [repository-url]
-
-# Install required packages
-pip install -r requirements.txt
-```
-
-## Usage
-
-```python
-# Example code for model training and prediction
-# (Add specific implementation details)
-```
 
 ## Future Work
 
